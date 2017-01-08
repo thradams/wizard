@@ -1,6 +1,7 @@
-# wizard
+# C code Wizard
 
-Tool for generating code
+Generate boilerplate code from a template
+
 
 ```c
 
